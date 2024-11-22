@@ -1,0 +1,34 @@
+* {
+    margin: 1%;
+    padding: 1%;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #44453f;
+}
+
+h1 {
+    color: #efc900;
+    font-family: "Playwrite CO", cursive;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    background-color: aqua;
+}
+
+h2 {
+    font-family: "Playwrite CO", cursive;
+  font-optical-sizing: auto;
+  font-weight: 1000;
+  font-style: normal;
+    color: #efc900;
+}
+
+li {
+    color: #efc900;
+}
+
+p {
+    color: #efc900;
+}
