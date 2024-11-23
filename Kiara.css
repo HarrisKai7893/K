@@ -7,7 +7,7 @@
 html {
     background-color: #44453f;
 }
-
+ 
 h1 {
     color: #efc900;
     font-family: "Playwrite CO", cursive;
@@ -31,4 +31,16 @@ li {
 
 p {
     color: #efc900;
+}
+h3{
+    font-family: "Playwrite CO", cursive;
+  font-optical-sizing: auto;
+  font-weight: 1000;
+  font-style: normal;
+    color: #efc900;
+}
+img{
+    margin-right: auto; 
+    margin-left: auto;
+    display: block;
 }
